@@ -63,11 +63,5 @@ public class conta_bancaria {
 		
 		System.out.println(" Update account data: ");
 		System.out.print("Account " + cb.number + "," + " Holder: " + cb.name + "," + " Balance: " + "$" + cb.retiradaValor());
-		
-		
-		
-		
-		
-
 	}
 }
